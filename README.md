@@ -21,3 +21,17 @@ After linking the configuration, launch Neovim. Plugins will be installed automa
 ```bash
 nvim
 ```
+
+### Kitty キーバインド
+
+- **ペインを閉じる:** `Cmd + Shift + D` (Macのデフォルト)
+- **新しいペイン:** `cmd + return`
+- **リサイズモード:** `cmd + r`
+- **kitty_mod:** `ctrl+shift`
+- **レイアウト変更:** `kitty_mod + L`
+- **バッファ切り替え:** `shift + L` または `H`
+- **検索:** `space space`
+- **検索結果のスクロール:** `control+j` または `k`
+- **lazygit:** `space + gg`
+- **ペイン切り替え:** `kitty_mod + [` または `]`
+- **定義へジャンプ:** `gd` (カーソル上)
